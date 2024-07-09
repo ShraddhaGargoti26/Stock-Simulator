@@ -21,4 +21,5 @@ This will open a window where you can manage the inventory of products like eggs
 
 DEMO:
 
-![Java Stock](https://github.com/ShraddhaGargoti26/Stock-Simulator/assets/174253712/5bba8d21-c278-469a-b041-37c748cc1275)
+![Java Stock](https://github.com/ShraddhaGargoti26/Stock-Simulator/assets/175111799/4c2971ab-1604-4231-9feb-29b79463cee3)
+
